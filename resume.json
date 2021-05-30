@@ -1,0 +1,149 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Denis Rozimovschii",
+    "label": "Software Engineer / Security Researcher",
+    "image": "https://github.com/beaverden/resume/blob/0a4fd177a072b8014e9c73c31c499ccbe7354675/cv.png?raw=true",
+    "picture": "https://github.com/beaverden/resume/blob/0a4fd177a072b8014e9c73c31c499ccbe7354675/cv.png?raw=true",
+    "email": "<REDACTED>",
+    "phone": "<REDACTED>",
+    "url": "https://github.com/beaverden",
+    "website": "https://github.com/beaverden",
+    "profiles": [
+      {
+        "url": "https://github.com/beaverden"
+      }
+    ],
+    "summary": "Passionate engineer with interest in malicious windows executables, compiler/decompiler techniques. Golang and machine learning enthusiast. \n\n I enjoy grinding a subject until I get a grasp of it, whether we're talking Emotet anti-emulation techniques, or cooking a perfect steak",
+    "location": {
+      "city": "Iași",
+      "countryCode": "RO"
+    }
+  },
+  "work": [
+    {
+      "name": "Bitdefender",
+      "company": "Bitdefender",
+      "url": "https://www.bitdefender.com/",
+      "location": "Romania, Iași",
+      "position": "Security Researcher",
+      "startDate": "2017-04-03",
+      "highlights": [
+        "Enriched windows emulation techniques and built extensive generic detections based on the metadata extracted from the emulation process as well as detections for well known malicious families such as Emotet • C/C++, build systems, fast/scalable/reliable code. Data processing, matching algorithms at a large scale", 
+        "Created self-sufficient systems for automatic/manual detections on newly discovered malicious files • Python, Go, Docker, SQL/NoSQL databases, metric/log collection, site reliability, fast technology onboarding, efficient big data",
+        "Extended parsing/decompiling/detecting/visualizing techniques for executable and non-executable formats as VB6, C# IL, SFX • Fault tolerant and safe code, fast execution in limited environments, undocumented, obfuscated formats research"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Alexandru Ioan Cuza University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2016-10-01",
+      "endDate": "2019-07-15"
+    }
+  ],
+  "awards": [
+    {
+      "title": "II place, National Olympiad in Informatics, Republic of Moldova",
+      "date": "2016-04-18",
+      "summary": "Competitive programming contest, national stage"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Exploring the VB6 compiler",
+      "summary": "A study in the internals of the VB6 executable compiler and affiliated structures, along with applications in the modern security landscape"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Databases",
+      "level": "8/10",
+      "keywords": [
+        "SQL",
+        "Postgres",
+        "MongoDB",
+        "InfluxDB"
+      ]
+    },
+    {
+      "name": "C/C++",
+      "level": "8/10",
+      "keywords": [
+        "Performant code",
+        "Parsers"
+      ]
+    },
+    {
+      "name": "Machine learning",
+      "level": "7/10",
+      "keywords": [
+        "Reinforcement learning",
+        "Decision trees",
+        "Neural networks"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "9/10",
+      "keywords": [
+        "API / Microservices",
+        "Utilities",
+        "Parsers"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "9/10",
+      "keywords": [
+        "Utilities",
+        "API / Microservices",
+        "Asyncio"
+      ]
+    },
+    {
+      "name": "Reverse Engineering",
+      "level": "9/10",
+      "keywords": [
+        "Binary analysis",
+        "Format reversing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "CTF competitions",
+      "keywords": ["Binary exploitation, Reverse Engineering"]
+    },
+    {
+      "name": "Competitive programming",
+      "keywords": ["Algorithms", "Problem solving"]
+    },
+    {
+      "name": "Algotrading",
+      "keywords": ["Investing", "Backtesting", "CEP systems"]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.1.0",
+    "lastModified": "2021-05-29T19:00:32",
+    "theme": "paper"
+  }
+}
