@@ -29,9 +29,21 @@
       "position": "Security Researcher",
       "startDate": "2017-04-03",
       "highlights": [
-        "Enriched windows emulation techniques and built extensive generic detections based on the metadata extracted from the emulation process as well as detections for well known malicious families such as Emotet • C/C++, build systems, fast/scalable/reliable code. Data processing, matching algorithms at a large scale", 
+        "Enriched windows emulation techniques and built extensive generic detections based on the metadata extracted from the emulation process as well as detections for well known malicious families such as Emotet • Experience with C/C++, build systems such a make, cmake, ninja, fast/scalable/reliable code. Data processing, matching algorithms at a large scale such as fast string matching to large databases", 
         "Created self-sufficient systems for automatic/manual detections on newly discovered malicious files • Python, Go, Docker, SQL/NoSQL databases, metric/log collection, site reliability, fast technology onboarding, efficient big data",
         "Extended parsing/decompiling/detecting/visualizing techniques for executable and non-executable formats as VB6, C# IL, SFX • Fault tolerant and safe code, fast execution in limited environments, undocumented, obfuscated formats research"
+      ]
+    },
+    {
+      "name": "AppCUI",
+      "company": "AppCUI",
+      "url": "https://github.com/gdt050579/AppCUI",
+      "position": "Maintainer",
+      "startDate": "2021-05-20",
+      "highlights": [
+        "Open source maintainer of a crossplatform multifunctional GUI Library",
+        "OSX/Unix frondend ports with SDL2 and ncurses", 
+        "CMake builds • Github Workflows for Win/OSX/Unix • Valgrind tests • Compliance with the latest C/C++ standards"
       ]
     }
   ],
