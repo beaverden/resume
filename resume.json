@@ -42,7 +42,7 @@
       "startDate": "2021-05-20",
       "highlights": [
         "Open source maintainer of a crossplatform multifunctional GUI Library",
-        "OSX/Unix frondend ports with SDL2 and ncurses", 
+        "OSX/Unix frontend ports with SDL2 and ncurses", 
         "CMake builds • Github Workflows for Win/OSX/Unix • Valgrind tests • Compliance with the latest C/C++ standards"
       ]
     }
